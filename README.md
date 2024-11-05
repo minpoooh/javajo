@@ -16,16 +16,23 @@ JAVAJO 프로젝트는 에어비앤비를 모티브로 한 숙소 중개 플랫�
 - 개발 인원 : 5명
 
 
+## Roles
+- 유저 메인
+- 유저 숙소 검색
+- 유저 위시리스트
+- 유저 공지사항
+- 관리자 결제현황
+
 
 ## Development Environment
 - Spring STS3 (Spring Legacy 5.2.25)
 - Java 1.8
 - JavaScript
-- Windows
+- Windows 10
 
 
 
 ## Technologies Used
 - Maven
 - MyBatis
-- Oracle...
+- Oracle
